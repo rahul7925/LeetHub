@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rahul7925/LeetHub/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0693-binary-number-with-alternating-bits](https://github.com/rahul7925/LeetHub/tree/master/0693-binary-number-with-alternating-bits) |
 ## Matrix
 |  |
 | ------- |
