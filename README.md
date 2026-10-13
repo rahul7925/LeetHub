@@ -6,6 +6,7 @@
 | ------- |
 | [0835-image-overlap](https://github.com/rahul7925/LeetHub/tree/master/0835-image-overlap) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rahul7925/LeetHub/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/rahul7925/LeetHub/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
 |  |
 | ------- |
@@ -24,4 +25,12 @@
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/rahul7925/LeetHub/tree/master/0835-image-overlap) |
+## Greedy
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/rahul7925/LeetHub/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Sorting
+|  |
+| ------- |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/rahul7925/LeetHub/tree/master/3727-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
