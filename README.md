@@ -6,6 +6,7 @@
 | ------- |
 | [0835-image-overlap](https://github.com/rahul7925/LeetHub/tree/master/0835-image-overlap) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rahul7925/LeetHub/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/rahul7925/LeetHub/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rahul7925/LeetHub/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/rahul7925/LeetHub/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
@@ -38,4 +39,16 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rahul7925/LeetHub/tree/master/2778-sum-of-squares-of-special-elements) |
+## Hash Table
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/rahul7925/LeetHub/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/rahul7925/LeetHub/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/rahul7925/LeetHub/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
